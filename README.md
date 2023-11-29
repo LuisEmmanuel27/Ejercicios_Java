@@ -223,6 +223,6 @@ Ahora crea una clase ejecutable que realice lo siguiente:
 
 Por ejemplo, si tenemos un Electrodomestico con un precio final de 300, una lavadora de 200 y una televisión de 500, el resultado final sera de 1000 (300+200+500) para electrodomésticos, 200 para lavadora y 500 para televisión.
 
-<a href="./src/ejerciciosClassPoo/Electrodomesticos/Electrodomestico.java">ver codigo</a>
+<a href="./src/ejerciciosClassPoo/Electrodomesticos">ver codigos</a>
 <br />
 <a href="./src/ejerciciosTestsPoo/TestElectrodomesticos.java">ver test del codigo</a>
